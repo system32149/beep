@@ -8,6 +8,6 @@
 
 int main(void)
 {
-	printf("\007");
+	printf("\007"); // '007' is the bell character
 	return 0;
 }
